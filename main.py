@@ -6,7 +6,8 @@ import streamlit as st
 
 # Load dataset
 def load_data():
-    data = pd.read_csv('laptop_data.csv')
+    data = pd.read_csv('laptop-recomend
+/laptop_data.csv')
     return data
 
 # Preprocessing data
